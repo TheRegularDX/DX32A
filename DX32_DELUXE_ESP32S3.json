@@ -18,12 +18,12 @@
        "flash_mode":"qio",
        "hwids":[
           [
-             "0x239A",
-             "0x811B"
+             "0x303A",
+             "0x1001"
           ]
        ],
        "mcu":"esp32s3",
-       "variant":"DX32_DELUXE_ESP32S3"
+       "variant":"esp32s3"
     },
     "connectivity":[
        "wifi",
@@ -40,7 +40,7 @@
        "arduino",
        "espidf"
     ],
-    "name":"ESP32-S3-WROOM-1-N16R8 16MB",
+    "name":"ESP32-S3-WROOM-1-N16R8 16MB [DX32]",
     "upload":{
        "flash_size":"16MB",
        "maximum_ram_size":327680,
@@ -50,6 +50,6 @@
        "require_upload_port":true,
        "speed":921600
     },
-    "url":"https://github.com/TheRegularDX/DX32A",
-    "vendor":"IrregularDX"
+    "url":"https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html",
+    "vendor":"Espressif"
  }
