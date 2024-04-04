@@ -11,7 +11,7 @@ This is the base DX32 model. The DX32A DELUXE is a custom development board base
 ## PlatformIO support
 Ive added to this repo a slightly modified version of the official S3 DevKitC .json file to this repo, drag and drop it into `.platformio/platforms/espressif32/boards` to add the DX32 to the PlatformIO boards selector, this can also be used with any other board based on the ESP32S3 N16R8
 
-## faq
+## Faq
 >why it name delucks?
 
 just because i think deluxe is a cool word in general.
