@@ -1,4 +1,4 @@
-# DX32A
+# DX32A DELUXE
 This is the base DX32 model. The DX32A DELUXE is a custom development board based on the Espressif ESP32S3 N16R8 WiFi and Bluetooth module. designed to be simple and breadboard compatible
 
 ## Features
